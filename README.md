@@ -29,12 +29,12 @@ Olá, viajante intergaláctico! 👋 Sou um desenvolvedor apaixonado por explora
 
 ## **🌌 Projetos Destacados**  
 
-### **1. Aplicação React + Python (API Django)**  
-📌 **Descrição**: Uma plataforma de gerenciamento de tarefas com autenticação JWT e drag-and-drop.  
+### **1. Aplicação Python **  
+📌 **Descrição**: Fechamento de folha salarial com data agendada e envio para Gmail. 
 🔗 **Repositório**: [Link](#)  
 
-### **2. Sistema Java (Spring Boot) + React**  
-📌 **Descrição**: Sistema de e-commerce com microsserviços e pagamento integrado.  
+### **2. Sistema Java (Spring Boot 21) + React**  
+📌 **Descrição**: Cardápio web com atendimento via WhatsApp.
 🔗 **Repositório**: [Link](#)  
 
 ---
