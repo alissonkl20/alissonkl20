@@ -41,9 +41,9 @@ Olá, viajante intergaláctico! 👋 Sou um desenvolvedor apaixonado por explora
 
 ## **📡 Contato & Redes Sociais**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/)  
-[![AlissonDev](https://img.shields.io/badge/AlissonDev-000000?style=for-the-badge&logo=react&logoColor=61DAFB&color=0A66C2&labelColor=00C4CC)](https://alissondev.vercel.app/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](almeidadeoliveiraalisson04@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/)  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-F5D742?style=for-the-badge&logo=vercel&logoColor=F5D742&color=000000&labelColor=000000)](https://alissondev.vercel.app/)  
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidadeoliveiraalisson04@gmail.com) 
 
 ---
 
