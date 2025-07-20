@@ -1,14 +1,17 @@
 # 𝔻𝕖𝕧 𝔼𝕤𝕡𝕒𝕔𝕚𝕒𝕝 🚀  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="200" alt="Astronauta codando">  
-  <h1>✨ Bem-vindo ao Meu Universo de Código! ✨</h1>  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w0M3lsc2FjdDRocmx6a3VhMXRvZ20wdXJjbzZnc2RpdTU0MnhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Astronauta codando">  
+  <h1>✨ Bem-vindo ao Meu repositório ✨</h1>  
 </div>  
 
 ---
 
-## **🛸 Sobre Mim**  
-Olá, viajante intergaláctico! 👋 Sou um desenvolvedor apaixonado por explorar novas tecnologias e criar soluções incríveis. Minhas ferramentas favoritas incluem:  
+## **👨‍💻 Sobre Mim**  
+
+Desenvolvedor Full-Stack com habilidade de compreensão e comunicação ágil, sempre buscando adquirir experiência, buscando atender as demandas do mercado.  
+
+Principais competências:   
 
 - **JavaScript** 🟨 (Node.js, Express)  
 - **Java** ☕ (Spring Boot)  
@@ -29,12 +32,12 @@ Olá, viajante intergaláctico! 👋 Sou um desenvolvedor apaixonado por explora
 
 ## **🌌 Projetos Destacados**  
 
-### **1. Aplicação Python **  
-📌 **Descrição**: Fechamento de folha salarial com data agendada e envio para Gmail. 
+### **1. Aplicação React **  
+📌 **Descrição**: Trabalhei como Desenvolvedor FullStack no projeto WhaticketSaas, uma solução SaaS para atendimento ao cliente via WhatsApp, desenvolvendo tanto o Backend quanto o Frontend da aplicação. 
 🔗 **Repositório**: [Link](#)  
 
 ### **2. Sistema Java (Spring Boot 21) + React**  
-📌 **Descrição**: Cardápio web com atendimento via WhatsApp.
+📌 **Descrição**: Criei um cardápio web para uma padaria, permitindo que os clientes visualizassem os produtos disponíveis e realizassem pedidos online.
 🔗 **Repositório**: [Link](#)  
 
 ---
