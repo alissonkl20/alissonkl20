@@ -10,10 +10,10 @@
 ## **🛸 Sobre Mim**  
 Olá, viajante intergaláctico! 👋 Sou um desenvolvedor apaixonado por explorar novas tecnologias e criar soluções incríveis. Minhas ferramentas favoritas incluem:  
 
-- **JavaScript** 🟨 (Node.js, Express, Vanilla JS)  
-- **Java** ☕ (Spring Boot, Android)  
-- **React** ⚛️ (Next.js, Redux, Hooks)  
-- **Python** 🐍 (Django, Flask, Automações)  
+- **JavaScript** 🟨 (Node.js, Express)  
+- **Java** ☕ (Spring Boot)  
+- **React** ⚛️ (vite, tailwind.css, MUI, bootstrap)  
+- **Python** 🐍 (Flask, Automações)  
 
 ---
 
