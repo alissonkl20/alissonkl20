@@ -51,6 +51,6 @@ Principais competências:
 ---
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/LnUt9r8DZJf6U/giphy.gif" width="300" alt="Foguete decolando">  
+  <img src= "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJrZzR1NnNuMWh6dHU2cjk4bDM0ajU0ZzF4cDgyOWU4ZXFlMHFmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTkcEQACH24SMPxIQg/giphy.gif" width="200" alt="Foguete decolando">  
   <p>✨ <em>"Explorando o universo do código, um commit por vez!"</em> ✨</p>  
 </div>  
