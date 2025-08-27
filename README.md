@@ -34,7 +34,7 @@ Principais competências:
 
 ### **1. Aplicação React **  
 📌 **Descrição**: Trabalhei como Desenvolvedor FullStack no projeto WhaticketSaas, uma solução SaaS para atendimento ao cliente via WhatsApp, desenvolvendo tanto o Backend quanto o Frontend da aplicação. 
-🔗 **Repositório**: [Link](https://app.servidoratendezap.click/login)  
+🔗 **Site**: [Link](https://app.servidoratendezap.click/login)  
 
 ### **2. Sistema Java (Spring Boot 21) + React**  
 📌 **Descrição**: Criei um cardápio web para uma padaria, permitindo que os clientes visualizassem os produtos disponíveis e realizassem pedidos online.
@@ -44,7 +44,7 @@ Principais competências:
 
 ### **2. Sistema Python (Flask) + HTML + CSS**  
 📌 **Descrição**: Migrei todo sistema JAVA + HTML + CSS para Flask + Html + CSS
-🔗 **Repositório**: [Link](https://flask-food-app.onrender.com)  
+🔗 **Site**: [Link](https://flask-food-app.onrender.com)  
 
 ---
 
