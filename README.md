@@ -3,9 +3,6 @@
 <!-- Cabeçalho Animado -->
 <div align="center">
 
-<!-- Efeito de Digitação com Mais Opções -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=35&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=60&lines=✨+Dev+Espacial+🚀;💻+Full-Stack+Developer;🌌+Alisson+Kl+✨;🚀+Explorando+o+Universo+Digital" alt="Typing Animation" />
-
 <!-- Astronauta Animado com Efeito Flutuante -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w0M3lsc2FjdDRocmx6a3VhMXRvZ20wdXJjbzZnc2RpdTU0MnhyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="250" style="border-radius: 50%; box-shadow: 0 0 30px #6C63FF;" />
 
@@ -28,7 +25,6 @@
 <!-- Snake Animation Customizada -->
 <div align="center">
   
-![Snake Animation](https://github.com/alissonkl20/alissonkl20/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
