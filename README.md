@@ -105,50 +105,6 @@
 
 </div>
 
----
-
-## 🌌 **Projetos Destacados**
-
-<div align="center">
-
-### 🎯 **WhaticketSaaS - Sistema de Atendimento WhatsApp**
-
-<!-- Card de Projeto Animado -->
-<div style="background: linear-gradient(135deg, #6C63FF, #FF6584); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(108, 99, 255, 0.3);">
-
-**💼 Posição:** Desenvolvedor FullStack  
-**🛠️ Stack:** React, Node.js, Express, PostgreSQL  
-**📌 Descrição:** Solução SaaS completa para atendimento ao cliente via WhatsApp  
-**🔗 Demo:** [servidoratendezap.click](https://app.servidoratendezap.click/login)
-
-</div>
-
-### 🍞 **Cardápio Web - Padaria Online**
-
-<div style="background: linear-gradient(135deg, #00D4FF, #6C63FF); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0, 212, 255, 0.3);">
-
-**💼 Posição:** Desenvolvedor FullStack  
-**🛠️ Stack:** Java Spring Boot 21, React, MySQL  
-**📌 Descrição:** Sistema completo de cardápio digital com pedidos online  
-**🔗 Código:** [Ver Repositório](#)
-
-</div>
-
-### 🔄 **Migração Sistema Flask**
-
-<div style="background: linear-gradient(135deg, #FF6584, #00D4FF); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 10px 30px rgba(255, 101, 132, 0.3);">
-
-**💼 Posição:** Desenvolvedor Backend  
-**🛠️ Stack:** Python Flask, HTML, CSS  
-**📌 Descrição:** Migração completa de sistema legado Java para Flask moderno  
-**🔗 Live:** [flask-food-app.onrender.com](https://flask-food-app.onrender.com)
-
-</div>
-
-</div>
-
----
-
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
@@ -231,3 +187,15 @@
 </div>
 
 </div>
+
+<style>
+  body {
+    color: #6C63FF;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #6C63FF;
+  }
+  p, li, a {
+    color: #6C63FF;
+  }
+</style>
