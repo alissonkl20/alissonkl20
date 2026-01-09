@@ -18,12 +18,10 @@ I am passionate about delivering **high-quality software solutions** that meet u
 
 #### 🎨 Frontend:
 - **React**
-- **Next.js**
 - **TypeScript**
 
 #### 🗄️ Databases:
 - **PostgreSQL**
-- **MySQL**
 
 ---
 
