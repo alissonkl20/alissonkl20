@@ -1,6 +1,6 @@
 ## 🌟 Hi there 👋
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **2 years of experience** in creating robust and scalable digital solutions. I also have expertise in **Quality Assurance (QA)** and testing, utilizing tools such as **UiPath**, **Selenium**, and **Python** for both automated and manual testing.
+Welcome to my GitHub profile! I'm a **Full Stack Developer** with over **2 years of experience** in creating robust and scalable digital solutions. I also have expercience in **Quality Assurance (QA)** and testing, utilizing tools such as **UiPath**, **Selenium**, and **Python** for both automated and manual testing.
 
 ---
 
