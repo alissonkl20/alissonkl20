@@ -1,48 +1,36 @@
-<div style="background-color: black; color: white; padding: 20px;">
-
 # Alisson de Almeida
 
 <div align="center">
   <img src="./fels.jpeg" alt="Alisson de Almeida" width="350" height="450" style="border-radius: 50%;" />
 </div>
 
-<h2 align="center">👋 Bem-vindo ao meu perfil!</h2>
+## 👋 Bem-vindo ao meu perfil!
 
-<p align="center">
-  Sou um <strong>Desenvolvedor Full Stack</strong> com mais de <strong>2 anos de experiência</strong> na criação de soluções digitais robustas e escaláveis. Possuo também experiência em <strong>Garantia de Qualidade (QA)</strong> e testes, utilizando ferramentas como <strong>UiPath</strong>, <strong>Selenium</strong> e <strong>Python</strong> para testes automatizados e manuais.
-</p>
+Sou um **Desenvolvedor Full Stack** com mais de **2 anos de experiência** na criação de soluções digitais robustas e escaláveis. Possuo também experiência em **Garantia de Qualidade (QA)** e testes, utilizando ferramentas como **UiPath**, **Selenium** e **Python** para testes automatizados e manuais.
 
 ---
 
-<h2 align="center">✨ Destaques</h2>
+## ✨ Destaques
 
-<ul>
-  <li>🛠 <strong>Desenvolvimento de backends seguros, robustos e escaláveis</strong>, garantindo sistemas otimizados e funcionais.</li>
-  <li>🔍 <strong>Criação de interfaces modernas, responsivas e otimizadas</strong>, com foco em alta performance e satisfação do cliente.</li>
-  <li>🌱 <strong>Diagnóstico e correção de falhas e bugs em sistemas</strong>, implementando soluções rápidas e seguras.</li>
-</ul>
+- 🛠 **Desenvolvimento de backends seguros, robustos e escaláveis**, garantindo sistemas otimizados e funcionais.
+- 🔍 **Criação de interfaces modernas, responsivas e otimizadas**, com foco em alta performance e satisfação do cliente.
+- 🌱 **Diagnóstico e correção de falhas e bugs em sistemas**, implementando soluções rápidas e seguras.
 
 ---
 
-<h2 align="center">🚀 Tecnologias</h2>
+## 🚀 Tecnologias
 
-<div align="center">
-
-| 🔧 Backend                 | 🎨 Frontend           |  💾 Bancos de Dados |
-|---------------------------|-----------------------|---------------------|
-| **Java Spring Boot**       | **React**             | **PostgreSQL**      |
-| **Python Flask**           | **Next.js**           | **MySQL**           |
-|                           | **TypeScript**        |                     |
-
-</div>
+| 🔧 Backend         | 🎨 Frontend         | 💾 Bancos de Dados |
+|--------------------|--------------------|--------------------|
+| **Java Spring Boot** | **React**          | **PostgreSQL**     |
+| **Python Flask**     | **Next.js**        | **MySQL**          |
+|                    | **TypeScript**     |                    |
 
 ---
 
-<h2 align="center">📬 Contato</h2>
+## 📬 Contato
 
-<p align="center">
-  Entre em contato comigo para aprimorar ou desenvolver soluções digitais personalizadas para sua empresa.
-</p>
+Entre em contato comigo para aprimorar ou desenvolver soluções digitais personalizadas para sua empresa.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/">
@@ -61,13 +49,11 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alisson-almeida&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-almeida&layout=compact&theme=radical" alt="Top Languages">
-</div>
-
 </div>
 
 
