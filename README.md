@@ -6,23 +6,23 @@
 
 ---
 
-## 👋 Bem-vindo ao meu perfil!
+## 👋 Welcome to my profile!
 
-Sou um **Desenvolvedor Full Stack** com mais de **2 anos de experiência** na criação de soluções digitais robustas e escaláveis. Possuo também experiência em **Garantia de Qualidade (QA)** e testes, utilizando ferramentas como **UiPath**, **Selenium** e **Python** para testes automatizados e manuais.
+I am a **Full Stack Developer** with over **2 years of experience** in creating robust and scalable digital solutions. I also have experience in **Quality Assurance (QA)** and testing, using tools like **UiPath**, **Selenium**, and **Python** for automated and manual testing.
 
 ---
 
-## ✨ Destaques
+## ✨ Highlights
 
 <ul>
-  <li>🛠 <strong>Desenvolvimento de backends seguros, robustos e escaláveis</strong>, garantindo sistemas otimizados e funcionais.</li>
-  <li>🔍 <strong>Criação de interfaces modernas, responsivas e otimizadas</strong>, com foco em alta performance e satisfação do cliente.</li>
-  <li>🌱 <strong>Diagnóstico e correção de falhas e bugs em sistemas</strong>, implementando soluções rápidas e seguras.</li>
+  <li>🛠 <strong>Development of secure, robust, and scalable backends</strong>, ensuring optimized and functional systems.</li>
+  <li>🔍 <strong>Creation of modern, responsive, and optimized interfaces</strong>, focusing on high performance and customer satisfaction.</li>
+  <li>🌱 <strong>Diagnosis and correction of system failures and bugs</strong>, implementing quick and secure solutions.</li>
 </ul>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <div align="center">
   <table>
@@ -30,7 +30,7 @@ Sou um **Desenvolvedor Full Stack** com mais de **2 anos de experiência** na cr
       <tr>
         <th>🔧 Backend</th>
         <th>🎨 Frontend</th>
-        <th>💾 Bancos de Dados</th>
+        <th>💾 Databases</th>
       </tr>
     </thead>
     <tbody>
@@ -55,9 +55,9 @@ Sou um **Desenvolvedor Full Stack** com mais de **2 anos de experiência** na cr
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
-Entre em contato comigo para aprimorar ou desenvolver soluções digitais personalizadas para sua empresa.
+Get in touch with me to enhance or develop personalized digital solutions for your company.
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/">
@@ -70,7 +70,7 @@ Entre em contato comigo para aprimorar ou desenvolver soluções digitais person
     <img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord" alt="Discord">
   </a>
   <a href="https://kaiserdev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-Visit-ff69b4?logo=google-chrome" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?logo=google-chrome" alt="Portfolio">
   </a>
 </div>
 
