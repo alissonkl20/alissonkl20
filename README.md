@@ -1,7 +1,7 @@
 # Alisson de Almeida
 
 <div align="center">
-  <img src="./ler.jpeg" alt="Alisson de Almeida" width="300" height="400" />
+  <img src="./ler.png" alt="Alisson de Almeida" width="300" height="400" />
 </div>
 
 ## 👋 Bem-vindo ao meu perfil!
