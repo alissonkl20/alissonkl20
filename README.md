@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=F77F28&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Ol%C3%A1%2C+eu+sou+Alisson+de+Almeida;Full+Stack+Developer+%E2%80%A2+QA+Automation;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=F77F28&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=Ol%C3%A1%2C+eu+sou+Alisson+de+Almeida;Full+Stack+Developer+%E2%80%A2+3%2B+anos+de+experi%C3%AAncia;Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais" alt="Typing animation"/>
 
 <br/>
 
@@ -25,9 +25,9 @@
 <tr>
 <td width="58%" valign="top">
 
-Sou **Desenvolvedor Full Stack** com mais de **3 anos de experiência** no desenvolvimento de aplicações web completas — de backends escaláveis e APIs eficientes até interfaces modernas e responsivas.
+Sou **Desenvolvedor Full Stack** com mais de **3 anos de experiência** no desenvolvimento de aplicações web — de backends robustos e escaláveis, APIs eficientes e interfaces modernas e responsivas.
 
-Tenho experiência em **arquitetura de software**, **otimização de performance**, **refatoração de sistemas legados** e **automação de processos (RPA)**. Também atuo com **Qualidade de Software (QA)**, utilizando **UiPath**, **Selenium** e **Python** para garantir entregas confiáveis e de alta performance.
+Foco em **arquitetura**, **performance**, **qualidade de código** e entrega de **soluções completas**. Atuo em todo o ciclo de desenvolvimento: da ideação (spec-driven, TDD, arquitetura) à execução em produção (frontend, backend, banco de dados e CI/CD).
 
 <br/>
 
@@ -43,7 +43,7 @@ success = inevitable;
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="./assets/workspace-card.jpg" alt="Developer workspace" width="100%"/>
+<img src="./assets/workspace-neon.jpg" alt="Developer workspace neon" width="100%"/>
 
 *🌙 Build. Learn. Repeat.*
 
@@ -51,46 +51,67 @@ success = inevitable;
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=110&section=header&text=%F0%9F%92%BC%20Especialidades&fontSize=32&fontColor=F77F28&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=110&section=header&text=%F0%9F%8C%90%20Meu%20Portf%C3%B3lio&fontSize=32&fontColor=F77F28&animation=twinkling" width="100%"/>
+
+<div align="center">
+
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar_Portf%C3%B3lio-devkisper.vercel.app-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://devkisper.vercel.app/)
+
+<img src="./assets/hero-animated.gif" alt="Preview do portfólio" width="100%"/>
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**🔐 APIs REST**  
-Seguras e escaláveis
+### ✨ Características
+
+- **Hero interativo** com efeito typewriter e parallax
+- **Skills & Tools** organizadas por ciclo de desenvolvimento (ideação → execução)
+- **Timeline de experiência** com cards animados e tags de tecnologia
+- **Carrossel infinito** de projetos com pause ao hover
+- **Contato interativo** com canais reveláveis
+- **Download de CV** integrado
+- Design **neon/cyberpunk** com animações e efeitos visuais
 
 </td>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-**🏗️ Full Stack**  
-Arquitetura e implementação
+### 🛠️ Tecnologias do Site
 
-</td>
-<td align="center" width="33%">
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,vercel,git&perline=6" />
 
-**🤖 RPA & QA**  
-Automação de testes e processos
+<br/><br/>
+
+**Seções:** Home · About · Experience · Projects · Contact
+
+**Destaques:** Next.js App Router · TypeScript · Tailwind CSS · Animações · Deploy na Vercel
 
 </td>
 </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=110&section=header&text=%F0%9F%92%BC%20Ciclo%20de%20Desenvolvimento&fontSize=32&fontColor=F77F28&animation=twinkling" width="100%"/>
+
+<table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
-**🔗 Integrações**  
-Sistemas e bancos de dados
+### 01 — Ideação
 
-</td>
-<td align="center">
-
-**⚡ Performance**  
-Bugs, otimização e refatoração
+**Spec-driven** · **TDD** · **SDD**  
+**Agent Skills** · **Arquitetura**  
+Definições · Modelagem · Estrutura
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
-**🎨 UI/UX**  
-Interfaces modernas e responsivas
+### 02 — Execução
+
+**Git** · **CI/CD** · **REST APIs**  
+**Frontend** · **Backend** · **Database**  
+React · Next.js · Vue.js · Laravel · Flask · NestJS
 
 </td>
 </tr>
@@ -102,19 +123,19 @@ Interfaces modernas e responsivas
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,laravel,php,nodejs,express,nestjs&perline=9" />
+<img src="https://skillicons.dev/icons?i=python,flask,laravel,php,nodejs,express,nestjs&perline=9" />
 
 <br/><br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css&perline=9" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css,tailwind&perline=9" />
 
 <br/><br/>
 
-**Banco de Dados · Infra · QA**
+**Banco de Dados · Infra · Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,git,github,vscode,selenium&perline=9" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,git,github,vscode&perline=9" />
 
 </div>
 
@@ -125,9 +146,16 @@ Interfaces modernas e responsivas
 <td width="100%">
 
 ### Full Stack Developer · Rauzee
-`Mar 2026 — Jul 2026`
+`Mar 2026 — Jul 2026` · **Latest**
 
-Desenvolvimento de sistemas focados em produtividade e eficiência operacional. Otimização de fluxos de análise de crédito para correspondentes bancários, melhorando agilidade, controle e precisão dos processos de aprovação com **Laravel, Flask, React, Vue.js, Next.js e AWS**.
+Desenvolvimento de sistemas focados em produtividade e eficiência operacional. Otimização de fluxos de análise de crédito para correspondentes bancários, melhorando agilidade, controle e precisão dos processos de aprovação.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
@@ -137,7 +165,12 @@ Desenvolvimento de sistemas focados em produtividade e eficiência operacional. 
 ### Freelancer · Autônomo
 `Jun 2025 — Set 2025`
 
-Melhoria de plataforma SaaS baseada em WhatsApp — estabilidade, performance e UX. Correções no backend, refinamentos de UI/UX e testes de estresse para identificar gargalos e fortalecer a confiabilidade do sistema.
+Melhoria de plataforma SaaS baseada em WhatsApp — estabilidade, performance e UX. Correções no backend, refinamentos de UI/UX e testes de estresse para identificar gargalos e fortalecer a confiabilidade.
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-F77F28?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-QA-00C853?style=flat-square)
 
 </td>
 </tr>
@@ -149,20 +182,26 @@ Melhoria de plataforma SaaS baseada em WhatsApp — estabilidade, performance e 
 
 Full Stack no projeto **WhaticketSaaS**. Módulo completo de transcrição de áudio, APIs REST com **Node.js, Express e TypeScript**, e interface React responsiva integrada com **PostgreSQL**.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 </td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=110&section=header&text=%F0%9F%9A%80%20Projetos%20em%20Destaque&fontSize=32&fontColor=F77F28&animation=twinkling" width="100%"/>
 
+<p align="center"><i>Trabalhos selecionados em IA, automação e desenvolvimento full-stack — veja todos no <a href="https://devkisper.vercel.app/#stacks">portfólio</a>.</i></p>
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
 ### FI — Finance AI
-`Personal financial manager`
+`AI · Finance` · **Featured**
 
-Processa extratos bancários via LLM local (5B) com RAG. Relatórios de receitas, despesas e categorização de gastos.
+Gerenciador financeiro pessoal que processa extratos bancários via LLM local (5B params) com RAG. Relatórios de receitas, despesas e categorização de gastos.
 
 <br/>
 
@@ -173,9 +212,9 @@ Processa extratos bancários via LLM local (5B) com RAG. Relatórios de receitas
 <td width="33%" valign="top" align="center">
 
 ### CH — Chatbot Self-Service
-`Autoatendimento inteligente`
+`AI · Chatbot`
 
-Chatbot com LLM local (3B) e RAG para atendimento humanizado, com treinamento personalizado e respostas empáticas.
+Chatbot com LLM local (3B params) e RAG para atendimento humanizado, com treinamento personalizado e respostas empáticas.
 
 <br/>
 
@@ -186,7 +225,7 @@ Chatbot com LLM local (3B) e RAG para atendimento humanizado, com treinamento pe
 <td width="33%" valign="top" align="center">
 
 ### RP — RPA Invoice MEI
-`Emissão de notas fiscais`
+`Automation`
 
 Automação para emissão de NF para MEI com **Flask**, requests e mapeamento HTML — 100% de precisão pré-programada.
 
@@ -222,8 +261,8 @@ Automação para emissão de NF para MEI com **Flask**, requests e mapeamento HT
 | | |
 |:---:|:---|
 | 🏗️ | Desenvolvendo aplicações Full Stack com foco em arquitetura escalável |
-| 🧪 | Aprimorando automação de testes e qualidade de software |
-| 🔍 | Explorando novas tecnologias, performance e segurança |
+| 🤖 | Explorando IA local, RAG e Agent Skills em produtos reais |
+| ⚡ | Aprimorando performance, qualidade de código e entregas spec-driven |
 
 </div>
 
@@ -231,7 +270,9 @@ Automação para emissão de NF para MEI com **Flask**, requests e mapeamento HT
 
 <div align="center">
 
-### 💡 *"Transformando ideias em soluções digitais eficientes."*
+### 💡 *"Aberto a novos projetos, colaborações e oportunidades para construir experiências digitais de alto impacto."*
+
+[![Portfólio](https://img.shields.io/badge/Visite_meu_Portf%C3%B3lio-devkisper.vercel.app-DC2626?style=for-the-badge&logo=vercel&logoColor=white)](https://devkisper.vercel.app/)
 
 <img src="https://komarev.com/ghpvc/?username=alisson-almeida&style=for-the-badge&color=F77F28&labelColor=1a1a2e"/>
 
