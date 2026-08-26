@@ -1,171 +1,19 @@
-<div align="center">
-
-# Alisson de Almeida
-
-**Full Stack Developer** · 3+ anos de experiência
-
-<br/>
-
-<img src="./ler.png" alt="Alisson de Almeida" width="140" style="border-radius: 50%;"/>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-devkisper.vercel.app-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://devkisper.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:almeidadeoliveiraalisson04@gmail.com)
-
-</div>
-
----
-
-## Sobre
-
-Desenvolvedor Full Stack focado em backends escaláveis, APIs eficientes e interfaces modernas. Entrego soluções end-to-end com código limpo, testável e orientado a performance.
-
-Confira meu [portfólio](https://devkisper.vercel.app/) — projetos, experiência e contato em um só lugar.
-
-| Foco | Expertise |
-|:---|:---|
-| Arquitetura | Backends escaláveis |
-| Performance | APIs REST eficientes |
-| Qualidade | Código limpo e testável |
-| Entrega | Soluções end-to-end |
-
----
-
-## Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alissonkl20&label=Visualizações&color=blueviolet&style=flat" alt="alissonkl20" />
+</p>
 
 <div align="center">
 
-**Backend**
+# 👋 Olá, eu sou Alisson de Almeida
 
-<img src="https://skillicons.dev/icons?i=python,flask,laravel,php,nodejs,express,nestjs&perline=7" />
+### 🚀 Full Stack Developer · APIs que voam · UIs que encantam
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-devkisper.vercel.app-FF2D20?style=for-the-badge&logo=vercel&logoColor=white)](https://devkisper.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidadeoliveiraalisson04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alissonkl20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alissonkl20)
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript,javascript,html,css,tailwind&perline=8" />
-
-<br/><br/>
-
-**Dados & Infra**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,git,github,vscode&perline=6" />
-
-</div>
-
----
-
-## Experiência
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-**Full Stack Developer** · Rauzee  
-`Mar 2026 — Jul 2026`
-
-Sistemas de produtividade e eficiência operacional. Otimização de fluxos de análise de crédito para correspondentes bancários.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-**Freelancer** · Autônomo  
-`Jun 2025 — Set 2025`
-
-Plataforma SaaS WhatsApp — estabilidade, performance e UX. Backend, UI/UX e testes de estresse.
-
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-F77F28?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="100%" valign="top">
-
-**Web Developer** · Freelance  
-`Mai 2024 — Nov 2024`
-
-**WhaticketSaaS** — transcrição de áudio, APIs REST (Node.js, Express, TypeScript), React + PostgreSQL.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## Projetos
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**FI — Finance AI**  
-`AI · Finance`
-
-LLM local 5B + RAG para extratos bancários e categorização de gastos.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-RAG-FF6B35?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-**CH — Chatbot**  
-`AI · Chatbot`
-
-LLM 3B + RAG para autoatendimento humanizado e empático.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-RAG-FF6B35?style=flat-square)
-
-</td>
-<td width="33%" valign="top">
-
-**RP — RPA MEI**  
-`Automation`
-
-Emissão de NF para MEI com Flask — 100% de precisão.
-
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-00C853?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=alisson-almeida&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=F77F28&text_color=8b949e&border_radius=8"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=alisson-almeida&theme=dark&hide_border=true&background=0d1117&ring=F77F28&fire=F77F28&currStreakLabel=e6edf3&border_radius=8"/>
-
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson-almeida&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8&border_radius=8"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alisson-almeida&theme=react-dark&hide_border=true&bg_color=0d1117&color=21262d&line=F77F28&point=F77F28&area=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=F75C7E&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Python+%7C+TypeScript+%7C+React;Backend+escalável+%2B+UI+moderna;Aberto+a+novos+desafios+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -173,10 +21,111 @@ Emissão de NF para MEI com Flask — 100% de precisão.
 
 <div align="center">
 
-Aberto a novos projetos e colaborações.
+## 💡 Sobre mim
 
-<br/><br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=alisson-almeida&style=flat-square&color=F77F28&labelColor=0d1117"/>
+- 🌱 Atualmente aprofundando **LLMs, RAG** e backends de alta performance
+- 💻 Desenvolvedor Full Stack com **3+ anos** entregando SaaS, APIs REST e automações
+- 💬 Pergunte-me sobre **Python, TypeScript, React, Laravel, Flask** e arquitetura de APIs
+- 📫 Me chama no [portfólio](https://devkisper.vercel.app/) ou no [LinkedIn](https://www.linkedin.com/in/alisson-almeida-de-oliveira-3406bb347/) — estou em **Jaraguá do Sul**
+- ⚡ Fun fact: já fiz um RPA de NF para MEI com **100% de precisão**
+
+---
+
+<div align="center">
+
+## 🛠️ Habilidades
+
+</div>
+
+### 💻 Linguagens
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+### ⚡ Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 🧰 Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</p>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=alissonkl20&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats de alissonkl20" />
+
+<img src="https://streak-stats.demolab.com/?user=alissonkl20&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonkl20&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top linguagens" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribuições
+
+A cobrinha só aparece depois de rodar a GitHub Action **Gerar Cobrinha** (veja o passo a passo abaixo).
+
+![Cobrinha commits](https://raw.githubusercontent.com/alissonkl20/alissonkl20/output/snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Aberto a novos projetos e colaborações
+
+⭐ Obrigado por visitar o meu perfil!
 
 </div>
